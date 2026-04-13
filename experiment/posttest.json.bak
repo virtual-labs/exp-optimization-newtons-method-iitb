@@ -1,6 +1,6 @@
 [
   {
-    "question": "<span style='display:inline-block;'>$$ \\text{Initial guess} \\quad x1 = 1 $$ </span> <br> <span style='display:inline-block;'>$$ x2 = x1 - \\frac{f(x1)}{df(x1)} $$</span> <br> <span style='display:inline-block;'>$$\\text{equation } = x^2-cos(x) $$</span> <br> <span style='display:inline-block;'> $$ df(x) = 2x + sin(x) $$ </span> <br> <span style='display:inline-block;'>$$\\text{What is function value of 3rd iteration using Newton Raphson method?}$$</span>",
+    "question": "<div style='font-size:14px; display:flex; flex-direction:column;'><span style='display:inline-block;'>$$ \\text{Initial guess} \\quad x1 = 1 $$ </span>  <span style='display:inline-block;'>$$ x2 = x1 - \\frac{f(x1)}{df(x1)} $$</span>  <span style='display:inline-block;'>$$\\text{equation } = x^2-cos(x) $$</span>  <span style='display:inline-block;'> $$ df(x) = 2x + sin(x) $$ </span>  <span style='display:inline-block;'>$$\\text{What is function value of 3rd iteration using Newton Raphson method?}$$</span></div>",
     "qid": 1,
     "option_a": "0.03382",
     "option_b": "0.00026",
@@ -9,7 +9,7 @@
     "correct_option": "c"
   },
   {
-    "question": "<span style='display:inline-block;'>$$ \\text{Initial guess} \\quad x1 = 1 $$</span> <br> <span style='display:inline-block;'> $$ x2 = x1 - \\frac{f(x1)}{df(x1)} $$</span> <br> <span style='display:inline-block;'> $$\\text{equation } = x^2-cos(x) $$</span> <br> <span style='display:inline-block;'> $$ df(x) = 2x + sin(x) $$ </span> <br> <span style='display:inline-block;'> $$\\text{What is root value of 3rd iteration using Newton Raphson method?}$$ </span>",
+    "question": "<div style='font-size:14px; display:flex; flex-direction:column;'><span style='display:inline-block;'>$$ \\text{Initial guess} \\quad x1 = 1 $$</span>  <span style='display:inline-block;'> $$ x2 = x1 - \\frac{f(x1)}{df(x1)} $$</span>  <span style='display:inline-block;'> $$\\text{equation } = x^2-cos(x) $$</span>  <span style='display:inline-block;'> $$ df(x) = 2x + sin(x) $$ </span>  <span style='display:inline-block;'> $$\\text{What is root value of 3rd iteration using Newton Raphson method?}$$ </span></div>",
     "qid": 2,
     "option_a": "0.82413",
     "option_b": "0.83822",
